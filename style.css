@@ -6,3 +6,18 @@ body {
 h1 {
     color: #333;
 }
+
+#welcome, #about, #contact {
+    padding: 20px;
+    margin: 10px;
+    background-color: #f0f8ff;
+    border-radius: 5px;
+}
+#welcome h1 {
+    color: #0066cc;
+}
+a {
+    color: #ff4500;
+    text-decoration: none;
+}
+
